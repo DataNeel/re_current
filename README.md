@@ -1,3 +1,6 @@
+
+## _wanted: people who know how to code and can help turn this into a better library_
+
 # re_current
 
 This is a very-incomplete version of the re_current library used to build midi loops and power processing sketches. You can find examples of its use at http://instagram.com/neel.shivdasani.
